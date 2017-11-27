@@ -1,0 +1,12 @@
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\obj\Debug\netcoreapp2.0\Connections.csprojResolveAssemblyReference.cache
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\obj\Debug\netcoreapp2.0\Connections.csproj.CoreCompileInputs.cache
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\obj\Debug\netcoreapp2.0\Connections.AssemblyInfoInputs.cache
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\obj\Debug\netcoreapp2.0\Connections.AssemblyInfo.cs
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\bin\Debug\netcoreapp2.0\Connections.deps.json
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\bin\Debug\netcoreapp2.0\Connections.runtimeconfig.json
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\bin\Debug\netcoreapp2.0\Connections.runtimeconfig.dev.json
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\bin\Debug\netcoreapp2.0\Connections.dll
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\bin\Debug\netcoreapp2.0\Connections.pdb
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\obj\Debug\netcoreapp2.0\Connections.dll
+C:\Users\Rachel\Desktop\dev\C#\Connections\Connections\obj\Debug\netcoreapp2.0\Connections.pdb

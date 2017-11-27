@@ -1,0 +1,26 @@
+﻿@model Connections.Models.HomeViewModels.AboutViewModel
+
+<h3>Invitations:</h3>
+
+<h5>The following people asked you to be in their network:</h5>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayFor(model => model.Invites)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Invites)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                    <a asp-action="Accept" asp-route-id="@item.Id">Accept</a> |
+                    <a asp-action="Ignore" asp-route-id="@item.Id">Ignore</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

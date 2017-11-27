@@ -1,0 +1,14 @@
+﻿@model Connections.Models.HomeViewModels.AboutViewModel
+<h4> Your Professional Network:</h4>
+<table class="table">
+    <tbody>
+        @foreach (var user in Model.Friends)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Details" asp-route-id="@user.Id">@Html.DisplayFor(modelItem => user.Name)</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
